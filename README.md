@@ -1,5 +1,5 @@
 # NSPEK-3031_TilleggK
-- Simulation of hourly heat pump performance with with bilinear interpolation of capacity and COP in accordance with European standards EN 13612-2, EN 14825, and Norwegian Technical Specificaion SN NSPEK 3031:2020.
+- Simulation of hourly heat pump performance with with bilinear interpolation of capacity and COP in accordance with European standards EN 13612-2, EN 14825, and Norwegian Technical Specification SN NSPEK 3031:2020.
 - The spreahsheet also calculates part-load COP using a relation between PLF vs PLF. This is done in a flexible way that can handle both single-speed and variable-speed compressors for air/air, air/water, water/air or water/water heat pumps.
 - The workbook is partly in Norwegian.
 - The workbook contains 4 example sheets for different heat pump applications:
