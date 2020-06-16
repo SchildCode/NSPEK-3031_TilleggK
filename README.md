@@ -7,7 +7,7 @@
   2. Domestic hot water production only
   3. Simultaneous production of space heating and domestic hot water from the same primary circuit 
   4. Heat pump with shunt-valve to switch between producing high-temperature heat to domestic hot water, and low-temperature heat to space heating
-- The worksheet does not calculate pump energy. You can easily modify the spreadsheet to estimate hourly total pump energy.
+- The worksheet does not calculate energy for circulation pumps. However, it is easy modify the spreadsheet to summate hourly energy for the circulation pumps using pump laws, similar to that used by e.g. https://product-selection.grundfos.com/.
 - In addition, the workbook has four precalculation sheets (green-coloured tabs) that may be used to generate input data for pasting into the (red) heat pump calclation sheets:
   1. Visualization of part load profiles (PLR vs PLF), basically in complaince with EN 13612-2 and EN 14825.
   2. Generating one year of hourly loads (space+ventilation heating, and domestic hot water), and separate generation of hourly setpoint temperature for the supply to the hydronic heating system based on an outdoor-temperature compensation curve.
