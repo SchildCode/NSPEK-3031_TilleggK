@@ -1,6 +1,6 @@
 # NSPEK-3031_TilleggK
 - Simulation of hourly performance of heat-pumps or chillers by means of bilinear interpolation of capacity and COP in accordance with European standards EN 13612-2, EN 14825, and Norwegian Technical Specification SN NSPEK 3031:2020 Appendix K.
-- The workbook also calculates part-load COP using a relation between Part-Load Factor (PLF) vs Part-Load Ratio (PLR). This is done in a flexible way that can handle any heat pump (both single-speed and variable-speed compressors for air/air, air/water, water/air or water/water heat pumps). This approach is an improvement upon EN 13612-2, EN 14825, but still compliant by adjusting the 3 coefficients.
+- The workbook also calculates part-load COP using a relation between Part-Load Factor (PLF) vs Part-Load Ratio (PLR). This is done in a flexible way that can handle all kinds of heat pump (both single-speed and variable-speed compressors for air/air, air/water, water/air or water/water heat pumps). This approach is an improvement upon EN 13612-2, EN 14825, but still compliant by adjusting the 3 coefficients.
 
 - The workbook contains four example sheets (with red-colourd tabs) for hourly heat-pump calculations. In each case the calculations integrate the total energy delivered to the heat pump and the electric boiler:
   1. Space heating only
