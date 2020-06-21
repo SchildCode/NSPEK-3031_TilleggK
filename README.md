@@ -14,7 +14,7 @@
   4. Calculation of hourly borehole outlet temperature for a whole year, in accordance with the simple cosine curve and tabulated values given in European Standard EN 15450.
 - Caveats:
   1. The workbook is partly in Norwegian.
-  2. The worksheet does not calculate energy for circulation pumps. However, it is easy modify the spreadsheet to summate hourly energy for the circulation pumps using pump laws, similar to that used by e.g. https://product-selection.grundfos.com/.
+  2. The worksheet does not calculate energy for circulation pumps. However, it is easy to modify the spreadsheet to summate hourly energy for circulation pumps by using pump laws, similar to that used by e.g. https://product-selection.grundfos.com/.
 
 
 ### Licence & warranty
