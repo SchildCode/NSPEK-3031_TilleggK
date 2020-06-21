@@ -25,13 +25,13 @@
 - peter.schild@OsloMet.no
 
 ### References cited above
-<a id="1">[1]</a> SN-NSPEK 3031:2020: <i>"Energy performance of buildings — Calculation of energy needs and energy supply"</i> (In Norwegian)
-<a id="2">[2]</a> ISO 13612-2: <i>"Heating and cooling systems in buildings — Method for calculation of the system performance and system design for heat pump systems — Part 2: Energy calculation"</i>
-<a id="3">[3]</a> ISO 13790: <i>"Thermal performance of buildings - Calculation of energy use for space heating"</i> (Withdrawn)
-<a id="4">[4]</a> EN 14825: <i>"Air conditioners, liquid chilling packages and heat pumps, with electrically driven compressors, for space heating and cooling — Testing and rating at part load conditions and calculation of seasonal performance"</i>
-<a id="5">[5]</a> EN 15450: <i>"Heating systems in buildings - Design of heat pump heating systems"</i>
-<a id="6">[6]</a> Fuentes, E., Waddicor, D., Fannan, M. O., & Salom, J. (2017). "Improved methodology for testing the part load performance of water-to-water heat pumps". In <i>Proceedings of 12th IEA Heat Pump Conference 2017</i>.
-<a id="7">[7]</a> Henderson, H. I., Parker, D., & Huang, Y. J. (2000). "Improving DOE-2's RESYS routine: User defined functions to provide more accurate part load energy use and humidity predictions". In <i>Proceedings of 2000 ACEEE Summer Study on Energy Efficiency in Buildings, August 20-25, 2000, Pacific Grove, CA</i>
+- <a id="1">[1]</a> SN-NSPEK 3031:2020: <i>"Energy performance of buildings — Calculation of energy needs and energy supply"</i> (In Norwegian)
+- <a id="2">[2]</a> ISO 13612-2: <i>"Heating and cooling systems in buildings — Method for calculation of the system performance and system design for heat pump systems — Part 2: Energy calculation"</i>
+- <a id="3">[3]</a> ISO 13790: <i>"Thermal performance of buildings - Calculation of energy use for space heating"</i> (Withdrawn)
+- <a id="4">[4]</a> EN 14825: <i>"Air conditioners, liquid chilling packages and heat pumps, with electrically driven compressors, for space heating and cooling — Testing and rating at part load conditions and calculation of seasonal performance"</i>
+- <a id="5">[5]</a> EN 15450: <i>"Heating systems in buildings - Design of heat pump heating systems"</i>
+- <a id="6">[6]</a> Fuentes, E., Waddicor, D., Fannan, M. O., & Salom, J. (2017). "Improved methodology for testing the part load performance of water-to-water heat pumps". In <i>Proceedings of 12th IEA Heat Pump Conference 2017</i>.
+- <a id="7">[7]</a> Henderson, H. I., Parker, D., & Huang, Y. J. (2000). "Improving DOE-2's RESYS routine: User defined functions to provide more accurate part load energy use and humidity predictions". In <i>Proceedings of 2000 ACEEE Summer Study on Energy Efficiency in Buildings, August 20-25, 2000, Pacific Grove, CA</i>
 
 
 
